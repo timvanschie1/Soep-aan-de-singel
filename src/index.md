@@ -1,6 +1,6 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Soep aan de singel
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
