@@ -14,7 +14,6 @@ collections:
         file: "src/index.md"
         create: false
         fields:
-          - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/home.njk"}
           - {label: "Intro (boven logo)", name: "intro", widget: "string"}
           - {label: "Uitleg (onder logo)", name: "body", widget: "text"}
           - {label: "Waar", name: "waar", widget: "string"}

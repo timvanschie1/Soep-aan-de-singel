@@ -1,4 +1,5 @@
 ---
+layout: home
 intro: 'Op zondag weinig te beleven? Gratis soep, broodje & gezelligheid bij'
 waar: 'Oude Singel 152, Leiden (Plexat)'
 wanneer: 'Elke zondag, 13:00 - 14:30 uur (inloop vanaf 12:30 uur)'
