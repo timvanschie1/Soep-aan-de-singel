@@ -1,0 +1,74 @@
+@import "./../variables";
+@import "./../utilities/visually-hidden";
+
+.home {
+  &__image {
+    display: block;
+    object-fit: cover;
+    width: 100%;
+    height: 30vh;
+
+    @media only screen and (min-width: 700px) {
+      position: fixed;
+      left: 400px;
+      width: calc(100% - 400px);
+      height: 100%;
+      object-position: 65% 50%;
+    }
+  }
+
+  &__article {
+    position: relative;
+    color: $white;
+    line-height: 1.2;
+  }
+
+  &__content {
+    background: $primary-color;
+    border: 10px solid darken($primary-color, 5%);
+    padding: 30px 20px;
+    font-size: 18px;
+    text-shadow: rgba(0,0,0,0.5) 1px 0 1px;
+
+    @media only screen and (min-width: 700px) {
+      width: 400px;
+    }
+
+    p {
+      margin-bottom: 1em;
+    }
+  }
+
+  &__intro {
+    order: 1;
+    font-size: 1.3em;
+    font-weight: 700;
+    text-align: center;
+
+    .home__logo {
+      &-wrapper {
+        display: inline-block;
+        margin: 0 auto 10px;
+        padding: 10px;
+        background-color: $white;
+      }
+
+      & {
+        display: block;
+        transform: rotate(7deg);
+        width: 100%;
+      }
+    }
+  }
+
+  &__details {
+    dt {
+      font-style: italic;
+      font-weight: 700;
+    }
+
+    dd {
+      margin-bottom: 1em;
+    }
+  }
+}

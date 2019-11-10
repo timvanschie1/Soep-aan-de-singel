@@ -1,18 +1,8 @@
 {
   "items": [
     {
-      "text": "Home",
-      "url": "/",
-      "external": false
-    },
-    {
-      "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
-      "external": true
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/hankchizljaw",
+      "text": "NGK website",
+      "url": "http://www.ngkoegstgeest.nl/",
       "external": true
     }
   ]

@@ -1,26 +1,42 @@
 {% extends 'layouts/base.njk' %}
 {% set pageType = 'Homepage' %}
 
-{# Intro content #}
-{% set introHeading = title %}
-{% set introSummary %}
-  {{ content | safe }}
-{% endset %}
-
-{# Post list content #}
-{% set postListHeading = postsHeading %}
-{% set postListItems = collections.postFeed %}
-
-{# Archive link #}
-{% if postListItems.length < collections.posts.length %} 
-  {% set paginationNextText = archiveButtonText %}
-  {% set paginationNextUrl = '/archive' %}
-{% endif %}
-
 {% block content %}
-  <main id="main-content" tabindex="-1">
-    {% include "partials/components/intro.njk" %}
-    {% include "partials/components/post-list.njk" %}
-    {% include "partials/components/pagination.njk" %}
-  </main>
+    <img class="home__image" src="/images/soepbroodje.jpg" alt="" />
+    <article class="home__article">
+        <h1 class="visually-hidden">Soep aan de singel</h1>
+        <div class="home__content">
+            <div class="home__intro">
+                {% if intro %}<p>{{ intro | safe }}</p>{% endif %}
+                <div class="home__logo-wrapper">
+                    <img class="home__logo" src="/images/logo.png" alt="Soep aan de Singel">
+                </div>
+            </div>
+            {{ content | safe }}
+            <dl class="home__details">
+                {% if wanneer %}
+                    <dt>Wanneer</dt>
+                    <dd>{{ wanneer }}</dd>
+                {% endif %}
+                {% if waar %}
+                    <dt>Waar</dt>
+                    <dd>{{ waar }}</dd>
+                {% endif %}
+                {% if aanmelden %}
+                    <dt>Aanmelden</dt>
+                    <dd>{{ aanmelden | safe }}</dd>
+                {% endif %}
+            </dl>
+
+            {% if organisatie %}
+                <h2>Organisatie</h2>
+                <p>{{ organisatie | safe }}</p>
+            {% endif %}
+
+            {% if achtergrond %}
+                <h2>Achtergrond</h2>
+                <p>{{ achtergrond | safe }}</p>
+            {% endif %}
+        </div>
+    </article>
 {% endblock %}
