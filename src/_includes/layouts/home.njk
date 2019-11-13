@@ -13,20 +13,17 @@
                 </div>
             </div>
             {{ content | safe }}
-            <dl class="home__details">
+            <ul class="home__details">
                 {% if wanneer %}
-                    <dt>Wanneer</dt>
-                    <dd>{{ wanneer }}</dd>
+                    <li>{{ wanneer }}</li>
                 {% endif %}
                 {% if waar %}
-                    <dt>Waar</dt>
-                    <dd>{{ waar }}</dd>
+                    <li>{{ waar }}</li>
                 {% endif %}
                 {% if aanmelden %}
-                    <dt>Aanmelden</dt>
-                    <dd>{{ aanmelden | safe }}</dd>
+                    <li>{{ aanmelden | safe }}</li>
                 {% endif %}
-            </dl>
+            </ul>
 
             {% if organisatie %}
                 <h2>Organisatie</h2>
