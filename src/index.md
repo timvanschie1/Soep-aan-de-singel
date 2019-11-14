@@ -1,16 +1,12 @@
 ---
 layout: home
 intro: 'Op zondag weinig te beleven? Gratis soep, broodje & gezelligheid!'
----
-Voor veel mensen is de zondag een lange, ongezellige dag. Daarom hebben wij het idee opgepakt om elke week met een groepje gezellig te gaan lunchen aan de singel. Een fijne "break" in je dag... en eten moet je toch ;-) Je bent van harte welkom om aan te schuiven.
-
+textAboveForm: Voor veel mensen is de zondag een lange, ongezellige dag. Daarom hebben wij het idee opgepakt om elke week met een groepje gezellig te gaan lunchen aan de singel. Een fijne "break" in je dag... en eten moet je toch ;-) Je bent van harte welkom om aan te schuiven.
 - Oude Singel 152, Leiden (Plexat)
-- Elke <strong>zondag, 13:00 - 14:30 uur</strong>
-<br>(inloop vanaf 12:30 uur)
-- Aanmelden: stuur een mailtje naar <strong><a
-  href='mailto:soepaandesingel@gmail.com'>soepaandesingel@gmail.com</a></strong>. 
-  <br>Dat is voor ons handig in verband met de catering, maar je bent ook welkom zonder aanmelding. Per keer is plaats voor zo'n 20 mensen.
-
+- Elke zondag, 13:00 - 14:30 uur (inloop vanaf 12:30 uur)
+---
+Aanmelden is voor ons in verband met de catering, maar je bent ook welkom zonder aanmelding. Per keer is plaats voor zo'n 20 mensen. Een mailtje naar <a href='mailto:soepaandesingel@gmail.com'>soepaandesingel@gmail.com</a> is ook prima.
+ 
 ## Organisatie
 Soep aan de Singel wordt georganiseerd door mensen uit diverse kerken en
 studentenverenigingen. De lunch is gratis en wordt mede mogelijk gemaakt door
