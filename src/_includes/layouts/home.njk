@@ -12,20 +12,6 @@
             <div class="home__logo-wrapper">
                 <img src="/images/logo.svg" alt="Soep aan de Singel">
             </div>
-            {{ textAboveForm | safe }}
-            <h2>Aanmelden</h2>
-            <form name="aanmelden" netlify>
-                <input id="naam" name="naam" type="text" required/>
-                <label for="naam">Naam</label>
-
-                <input id="email" name="email" type="email"/>
-                <label for="email">Email (optioneel)</label>
-
-                <textarea id="opmerking" name="opmerking"></textarea>
-                <label for="opmerking">Opmerking (optioneel)</label>
-
-                <button>Aanmelden</button>
-            </form>
             {{ content | safe }}
         </div>
     </article>
