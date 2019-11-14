@@ -15,12 +15,7 @@ collections:
         create: false
         fields:
           - {label: "Intro (boven logo)", name: "intro", widget: "string"}
-          - {label: "Uitleg (onder logo)", name: "body", widget: "text"}
-          - {label: "Waar", name: "waar", widget: "string"}
-          - {label: "Wanneer", name: "wanneer", widget: "string"}
-          - {label: "Aanmelden", name: "aanmelden", widget: "markdown"}
-          - {label: "Organisatie", name: "organisatie", widget: "text"}
-          - {label: "Achtergrond", name: "achtergrond", widget: "text"}
+          - {label: "Uitleg (onder logo)", name: "body", widget: "markdown"}
 
 #  - name: "generic_pages"
 #    label: "Generic Pages"

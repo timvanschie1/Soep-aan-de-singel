@@ -8,32 +8,11 @@
         <div class="home__content">
             <div class="home__intro">
                 {% if intro %}<p>{{ intro | safe }}</p>{% endif %}
-                <div class="home__logo-wrapper">
-                    <img class="home__logo" src="/images/logo.png" alt="Soep aan de Singel">
-                </div>
+            </div>
+            <div class="home__logo-wrapper">
+                <img src="/images/logo.svg" alt="Soep aan de Singel">
             </div>
             {{ content | safe }}
-            <ul class="home__details">
-                {% if wanneer %}
-                    <li>{{ wanneer }}</li>
-                {% endif %}
-                {% if waar %}
-                    <li>{{ waar }}</li>
-                {% endif %}
-                {% if aanmelden %}
-                    <li>{{ aanmelden | safe }}</li>
-                {% endif %}
-            </ul>
-
-            {% if organisatie %}
-                <h2>Organisatie</h2>
-                <p>{{ organisatie | safe }}</p>
-            {% endif %}
-
-            {% if achtergrond %}
-                <h2>Achtergrond</h2>
-                <p>{{ achtergrond | safe }}</p>
-            {% endif %}
         </div>
     </article>
 {% endblock %}
