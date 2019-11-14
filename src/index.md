@@ -2,7 +2,6 @@
 layout: home
 intro: 'Op zondag weinig te beleven? Gratis soep, broodje & gezelligheid!'
 ---
-
 Voor veel mensen is de zondag een lange, ongezellige dag. Daarom hebben wij
 het idee opgepakt om elke week met een groepje gezellig te gaan lunchen aan de
 singel. Een fijne "break" in je dag... en eten moet je toch ;-) Je bent van
@@ -10,17 +9,20 @@ harte welkom om aan te schuiven.
 
 * Oude Singel 152, Leiden (Plexat)
 * Elke **zondag, 13:00 - 14:30 uur** \
-(inloop vanaf 12:30 uur)
+  (inloop vanaf 12:30 uur)
 
-## Aanmelden    
-Aanmelden kan met een mailtje naar soepaandesingel@gmail.com. Dit is voor ons handig in verband met de catering, maar je bent ook welkom zonder aanmelding. Per keer is plaats voor zo'n 20 mensen.
- 
+## Aanmelden
+
+Aanmelden kan met een mailtje naar [**soepaandesingel@gmail.com**](mailto:soepaandesingel@gmail.com). Dit is voor ons handig in verband met de catering, maar je bent ook welkom zonder aanmelding. Per keer is plaats voor zo'n 20 mensen.
+
 ## Organisatie
+
 Soep aan de Singel wordt georganiseerd door mensen uit diverse kerken en
 studentenverenigingen. De lunch is gratis en wordt mede mogelijk gemaakt door
 het “Bloeifonds” van de Nederlands Gereformeerde Kerk Oegstgeest.
 
 ## Achtergrond
+
 In hartje Leiden staat Plexat; een jongerenhuis verbonden aan de NGK
 Oegstgeest e.o. Medio 2018 vroeg Bram Dijkstra, toenmalig kerkelijk werker in
 deze kerk, zich af of de mogelijkheden die Plexat heeft, wat meer zouden
