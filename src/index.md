@@ -3,8 +3,9 @@ layout: home
 intro: 'Op zondag weinig te beleven? Gratis soep, broodje & gezelligheid!'
 ---
 <br/>
+
 **I.v.m. het Corona-virus heeft ook het team van Soep aan de Singel besloten een paar weken de deur gesloten te houden. Vanaf zondag 5 april hopen we weer met elkaar te kunnen lunchen.**
-<br/>
+
 <br/>
 
 ***
