@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   branch: master
-site_url: "https://example.com"
+site_url: "https://www.soepaandesingel.nl"
 media_folder: "src/images"
 public_folder: "images"
 collections:
