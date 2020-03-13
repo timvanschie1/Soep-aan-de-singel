@@ -71,4 +71,12 @@
       }
     }
   }
+
+  &__attention {
+    background: white;
+    color: #eb0000;
+    padding: 1em;
+    font-style: italic;
+    text-shadow: none;
+  }
 }
