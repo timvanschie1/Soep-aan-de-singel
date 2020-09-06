@@ -4,7 +4,9 @@ intro: Op zondag weinig te beleven? Gratis soep, broodje & gezelligheid!
 rules: |-
   Ook bij ons zijn de regels:
   - Kom niet als u klachten heeft die kunnen wijzen op het Corona-virus
+
   - Handen desinfecteren
+
   - 1,5 m afstand houden van anderen
 contentBottom: >-
   ## Aanmelden
