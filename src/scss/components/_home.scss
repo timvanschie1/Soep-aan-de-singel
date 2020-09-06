@@ -75,11 +75,12 @@
   &__attention {
     background: white;
     color: #eb0000;
+    margin-bottom: 1em;
     padding: 1em;
     font-style: italic;
     text-shadow: none;
 
-    p:last-child {
+    ul {
       margin-bottom: 0;
     }
   }
