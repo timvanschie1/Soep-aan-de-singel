@@ -45,4 +45,4 @@ In maart moesten we helaas de deuren sluiten. Met een aantal inmiddels vaste gas
 Eind september hopen we weer te starten met de lunches. Vanwege de Corona-maatregelen zullen die plaatsvinden in 2 kleine groepen van maximaal 6 personen.
 
 * Oude Singel 152, Leiden (Plexat)
-* Elke **zondag**, van **11.45 - 13.00** en van **13.15 - 14.30**
+* Elke **zondag**, van **11.45-13.00** en van **13.15-14.30**
