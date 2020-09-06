@@ -5,7 +5,9 @@ rules: |-
   Ook bij ons zijn de regels:
 
   * Kom niet als u klachten heeft die kunnen wijzen op het Corona-virus
+
   * Handen desinfecteren
+
   * 1,5 m afstand houden van anderen
 contentBottom: >-
   ## Aanmelden
@@ -38,8 +40,7 @@ contentBottom: >-
 
   aanwijzingen zijn we aan de slag gegaan!
 ---
-Voor veel mensen is de zondag een lange, ongezellige dag. Daarom hebben wij het idee opgepakt om elke week met een groepje gezellig te gaan lunchen aan de singel. Een fijne "break" in je dag... en eten moet je toch ;-) Je bent van
-harte welkom om aan te schuiven.
+Voor veel mensen is de zondag een lange, ongezellige dag. Daarom hebben wij het idee opgepakt om elke week met een groepje gezellig te gaan lunchen aan de singel. Een fijne "break" in je dag... en eten moet je toch ;-) Je bent van harte welkom om aan te schuiven.
 
 In maart moesten we helaas de deuren sluiten. Met een aantal inmiddels vaste gasten hebben we in de zomer geregeld "thee-tijd" in een parkje in Leiden gehad.
 
