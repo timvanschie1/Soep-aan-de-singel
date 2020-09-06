@@ -78,5 +78,9 @@
     padding: 1em;
     font-style: italic;
     text-shadow: none;
+
+    p:last-child {
+      margin-bottom: 0;
+    }
   }
 }

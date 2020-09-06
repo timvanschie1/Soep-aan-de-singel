@@ -16,7 +16,9 @@ collections:
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/home.njk"}
           - {label: "Intro", name: "intro", widget: "string"}
-          - {label: "Tekst", name: "body", widget: "markdown"}
+          - {label: "Tekst boven regels", name: "body", widget: "markdown"}
+          - {label: "Regels", name: "rules", widget: "markdown"}
+          - {label: "Tekst boven regels", name: "contentBottom", widget: "markdown"}
 
 #  - name: "generic_pages"
 #    label: "Generic Pages"
