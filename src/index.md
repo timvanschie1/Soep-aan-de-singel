@@ -40,7 +40,7 @@ contentBottom: >-
 ---
 Voor veel mensen is de zondag een lange, ongezellige dag. Daarom hebben wij het idee opgepakt om elke week met een groepje gezellig te gaan lunchen aan de singel. Een fijne "break" in je dag... en eten moet je toch ;-) Je bent van harte welkom om aan te schuiven.
 
-**Update juni 2021:**
+## Update juni 2021:
 Soep aan de Singel vindt (tijdelijk) onderdak in de Opstandingskerk.
 
 In het najaar van 2020 moesten we tot onze grote spijt – vanwege de Covid-maatregelen - stoppen met de zondagse lunches. Nu de maatregelen verruimd worden, willen we **vanaf 20 juni 2021** weer gaan starten met lunchbijeenkomsten van 13.30 tot 15.00 uur.
