@@ -14,5 +14,5 @@ Plexat is helaas vanwege de kleine ruimte op dit moment minder geschikt, maar we
 Bij mooi weer kunnen we daar ook buiten zitten!
 
 ## Aanmelden
-Aanmelding van tevoren is noodzakelijk en kan via soepaandesingel@gmail.com
+Aanmelding van tevoren is noodzakelijk en kan via [soepaandesingel@gmail.com](mailto:soepaandesingel@gmail.com)
 En natuurlijk houden we ons aan de geldende Covid-maatregelen!
