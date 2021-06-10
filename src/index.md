@@ -8,7 +8,6 @@ rules: |-
   * Handen desinfecteren
   * 1,5 m afstand houden van anderen
 contentBottom: >-
-    
   ## Organisatie
 
 
