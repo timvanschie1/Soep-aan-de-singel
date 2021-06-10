@@ -40,9 +40,15 @@ contentBottom: >-
 ---
 Voor veel mensen is de zondag een lange, ongezellige dag. Daarom hebben wij het idee opgepakt om elke week met een groepje gezellig te gaan lunchen aan de singel. Een fijne "break" in je dag... en eten moet je toch ;-) Je bent van harte welkom om aan te schuiven.
 
-In maart moesten we helaas de deuren sluiten. Met een aantal inmiddels vaste gasten hebben we in de zomer geregeld "thee-tijd" in een parkje in Leiden gehad.
+**Update juni 2021:**
+Soep aan de Singel vindt (tijdelijk) onderdak in de Opstandingskerk.
 
-Eind september hopen we weer te starten met de lunches. Vanwege de Corona-maatregelen zullen die plaatsvinden in 2 kleine groepen van maximaal 6 personen.
+In het najaar van 2020 moesten we tot onze grote spijt – vanwege de Covid-maatregelen - stoppen met de zondagse lunches. Nu de maatregelen verruimd worden, willen we **vanaf 20 juni 2021** weer gaan starten met lunchbijeenkomsten van 13.30 tot 15.00 uur.
 
-* Oude Singel 152, Leiden (Plexat)
-* Elke **zondag**, van **12.30-13.45** en van **14.00-15.15**
+Plexat is helaas vanwege de kleine ruimte op dit moment minder geschikt, maar we zijn welkom in: **De Opstandingskerk** (Aerent Bruunstraat 1, Leiden).
+
+Bij mooi weer kunnen we daar ook buiten zitten!
+
+## Aanmelden
+Aanmelding van tevoren is noodzakelijk en kan via soepaandesingel@gmail.com
+En natuurlijk houden we ons aan de geldende Covid-maatregelen!
