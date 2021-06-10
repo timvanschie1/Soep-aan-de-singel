@@ -8,12 +8,7 @@ rules: |-
   * Handen desinfecteren
   * 1,5 m afstand houden van anderen
 contentBottom: >-
-  ## Aanmelden
-
-
-  Vanwege de Corona-maatregelen is er - per keer - maar beperkt plaats bij de lunches. Aanmelden is verplicht. Stuur een mailtje naar **[soepaandesingel@gmail.com](mailto:soepaandesingel@gmail.com)** met daarin enkele data waarop u zou willen/kunnen komen. U krijgt dan bericht wanneer er plaats is.
-
-
+    
   ## Organisatie
 
 
