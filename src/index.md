@@ -45,7 +45,7 @@ Soep aan de Singel vindt (tijdelijk) onderdak in de Opstandingskerk.
 
 In het najaar van 2020 moesten we tot onze grote spijt – vanwege de Covid-maatregelen - stoppen met de zondagse lunches. Nu de maatregelen verruimd worden, willen we **vanaf 20 juni 2021** weer gaan starten met lunchbijeenkomsten van 13.30 tot 15.00 uur.
 
-Plexat is helaas vanwege de kleine ruimte op dit moment minder geschikt, maar we zijn welkom in: **De Opstandingskerk** (Aerent Bruunstraat 1, Leiden).
+Plexat is helaas vanwege de kleine ruimte op dit moment minder geschikt, maar we zijn welkom in: [De Opstandingskerk](https://www.google.com/maps/place/Aerent+Bruunstraat+1,+2321+ED+Leiden/@52.1431494,4.4759461,17z/data=!3m1!4b1!4m5!3m4!1s0x47c5c65bd142c321:0xb1c99e68d8fe520f!8m2!3d52.1431494!4d4.4781348) (Aerent Bruunstraat 1, Leiden).
 
 Bij mooi weer kunnen we daar ook buiten zitten!
 
