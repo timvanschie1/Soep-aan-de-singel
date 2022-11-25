@@ -47,5 +47,8 @@
   "bugs": {
     "url": "https://github.com/hankchizljaw/hylia/issues"
   },
-  "homepage": "https://github.com/hankchizljaw/hylia#readme"
+  "homepage": "https://github.com/hankchizljaw/hylia#readme",
+  "volta": {
+    "node": "14.21.1"
+  }
 }
