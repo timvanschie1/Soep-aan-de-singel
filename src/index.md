@@ -8,10 +8,8 @@ We lunchen met elkaar van **13.30-15.00 uur.**
 
 **In de komende maanden is er Soep op:**
 
-* 2﻿4 november
-* 8﻿ en 22 december
-* 1﻿2 en 25 januari
-
-N.B. op 10 november zijn we niet in Plexat ivm een uitje.
+* 5 en 19 januari
+* 2 en 16 februari
+* 2, 16 en 30 maart
 
 **Graag van tevoren aanmelden via: [soepaandesingel@gmail.com](mailto:soepaandesingel@gmail.com)**
