@@ -8,8 +8,10 @@ We lunchen met elkaar van **13.30-15.00 uur.**
 
 **In de komende maanden is er Soep op:**
 
-* 27 juli
-* 28 augustus
-* 14 en 28 september
+* 28 september
+* 12 en 26 oktober
+* 9 en 23 november
+* 7 en 21 december
+* 4 en 18 januari
 
 **Graag van tevoren aanmelden via: [soepaandesingel@gmail.com](mailto:soepaandesingel@gmail.com)**
